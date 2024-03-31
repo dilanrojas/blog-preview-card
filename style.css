@@ -115,10 +115,11 @@ body {
 
 /* Utility classes */
 .button {
+  font-size: var(--fs-450);
   font-weight: var(--fw-bold);
   width: fit-content;
   background-color: var(--clr-yellow);
-  padding: .3em .6em;
+  padding: .2em .6em;
 }
 
 .rounded-5 {
